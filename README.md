@@ -7,7 +7,7 @@ MS-DOS command line program user mode emulator for macOS 26+ (Apple Silicon only
 [What is XT?](#what-is-xt)  
 [Installing XT](#installing-xt)  
 [Running MS-DOS command line programs](#running-ms-dos-command-line-programs)  
-[Converting MS-DOS command line programs into native macOS command line apps](converting-ms-dos-command-line-programs-into-native-macos-command-line-apps)  
+[Converting MS-DOS command line programs into native macOS command line apps](#converting-ms-dos-command-line-programs-into-native-macos-command-line-apps)  
 [Extending/Developing XT](#extendingdeveloping-xt)  
 &nbsp;&nbsp;[Adding DOS or BIOS interrupt handling functions to allow additional MS-DOS programs to run](#adding-dos-or-bios-interrupt-handling-functions-to-allow-additional-ms-dos-programs-to-run)  
 &nbsp;&nbsp;[Implemented DOS and BIOS interrupt handling functions](#implemented-dos-and-bios-interrupt-handling-functions)  
